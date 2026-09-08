@@ -1,0 +1,3 @@
+[submodule "GoogleRecaptchaBypass"]
+	path = GoogleRecaptchaBypass
+	url = https://github.com/nokernelspace/GoogleRecaptchaBypass
